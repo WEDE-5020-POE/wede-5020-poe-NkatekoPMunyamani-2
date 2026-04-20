@@ -27,13 +27,13 @@ TIMELINE
 * Day 8 - 10 Develop content strategy 
 * Day 11 - 12 Refine design based on feedback and finalise 
 * Day 13 Make final tweaks
-* Day 14 Submit  Part 1
+* Day 14 Submit  PROPOSAL
 - Week 3 , 13th - 20th April Content research and sourcing , Website structure and planning , HTML structure and basic content , GitHub Repository & Submission requirements 
 * Day 15 - 16 Conduct research , create a sitemap and create a files structure 
 * Day 17 - 18 Creation of HTML files for each page outlined in the sitemap and basic HTML structure 
 * Day 19 -20 Set a GitHub Repository and changelog 
 * Day 21 Check submission requirements and touch ups
-* Day 22 Submit
+* Day 22 Submit PART 1
 
 ## Sitemap
 
