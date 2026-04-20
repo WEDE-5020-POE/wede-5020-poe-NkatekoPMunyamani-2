@@ -17,8 +17,23 @@ To become a recognised local brand known for excellency in catering and handmade
 The aim of NAAH Productions is to provide high-quality handmade goods and satisfactory catering services, which will give clients pleasure, comfort, and satisfaction. Besides, the business promises to maintain a personalized touch in all the products and services provided to their customers.
 
 ## Timeline and Milestones
-
-Pull this from your project proposal.
+TIMELINE
+- Week 1 , 27th March - 3rd April Research , planning and designing 
+* Day 1 - 2 Define type of business selected
+* Day 3 - 4 Conduct market research
+* Day 5 - 6 Develop project plan
+* Day 7 Create wireframes , mockups and initial design concepts
+- Week 2 , 4th - 12th April 
+* Day 8 - 10 Develop content strategy 
+* Day 11 - 12 Refine design based on feedback and finalise 
+* Day 13 Make final tweaks
+* Day 14 Submit  Part 1
+- Week 3 , 13th - 20th April Content research and sourcing , Website structure and planning , HTML structure and basic content , GitHub Repository & Submission requirements 
+* Day 15 - 16 Conduct research , create a sitemap and create a files structure 
+* Day 17 - 18 Creation of HTML files for each page outlined in the sitemap and basic HTML structure 
+* Day 19 -20 Set a GitHub Repository and changelog 
+* Day 21 Check submission requirements and touch ups
+* Day 22 Submit
 
 ## Sitemap
 
