@@ -7,7 +7,6 @@ NAAH PRODUCTIONS WEBSITE
 
 ## Project Overview
 
-Business Description 
 NAAH Productions is a family-owned small business situated in South Africa in Gauteng province in Pretoria . We are catering and handmade products. We do small event catering for birthdays or community functions with fresh affordable food. We also make hand-crafted fabric items. Pillows, door stoppers, toiletry bags and pencil cases are among them. Everything we do is about quality and serving our community. In addition, the business deals with the manufacturing and sale of lifestyle products . Being a young company that lacks awareness, NAAH Productions tries to build a local reputation by delivering customized and affordable products and services to its clients.
 
 ## Website Goals and Objectives
