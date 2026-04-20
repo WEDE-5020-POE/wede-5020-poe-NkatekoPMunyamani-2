@@ -3,11 +3,8 @@ NAAH PRODUCTIONS WEBSITE
 
 ## Student Information
 **Student number:** ST10511420 <br>
-<<<<<<< HEAD
-**Student Name:** Nkateko Princess Munyamani
 =======
 **Student Name:** NKATEKO PRINCESS MUNYAMANI
->>>>>>> e820a20f246ccd5f6836b29a902c2877a768c9a0
 
 ## Project Overview
 
