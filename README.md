@@ -43,14 +43,14 @@ TIMELINE
 
 Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
 
-Etsy. (2024) *Trendy blue door stoppers*. Available at: [https://www.etsy.com/il-en/listing/4343933353/trendy-blue-doorstoppers-easy-fill](https://www.etsy.com/il-en/listing/4343933353/trendy-blue-doorstoppers-easy-fill) [Accessed 20 April 2026].
+Etsy. (2024) *Trendy blue door stoppers*. Available at: [https://www.etsy.com/il-en/listing/4343933353/trendy-blue-doorstoppers-easy-fill](https://www.etsy.com/il-en/listing/4343933353/trendy-blue-doorstoppers-easy-fill) [Accessed 18 April 2026].
 
-Pinterest. (2025) *Blue and white doorstop decor idea*. Available at: [https://pin.it/20VN4bcxN](https://pin.it/20VN4bcxN) [Accessed 20 April 2026].
+Pinterest. (2025) *Blue and white doorstop decor idea*. Available at: [https://pin.it/20VN4bcxN](https://pin.it/20VN4bcxN) [Accessed 18 April 2026].
 
-Pinterest. (2025) *Catering business branding idea*. Available at: [https://pin.it/1cd45HB9Q](https://pin.it/1cd45HB9Q) [Accessed 20 April 2026].
+Pinterest. (2025) *Catering business branding idea*. Available at: [https://pin.it/1cd45HB9Q](https://pin.it/1cd45HB9Q) [Accessed 18 April 2026].
 
-Pinterest. (2025) *Catering platter presentation idea*. Available at: [https://pin.it/3ZkNlemm9](https://pin.it/3ZkNlemm9) [Accessed 20 April 2026].
+Pinterest. (2025) *Catering platter presentation idea*. Available at: [https://pin.it/3ZkNlemm9](https://pin.it/3ZkNlemm9) [Accessed 18 April 2026].
 
-Pinterest. (2025) *Handmade product display idea*. Available at: [https://pin.it/5P99Wyjqa](https://pin.it/5P99Wyjqa) [Accessed 20 April 2026].
+Pinterest. (2025) *Handmade product display idea*. Available at: [https://pin.it/5P99Wyjqa](https://pin.it/5P99Wyjqa) [Accessed 18 April 2026].
 
-Pinterest. (2025) *Table setting inspiration for catering*. Available at: [https://pin.it/41lqwNRQB](https://pin.it/41lqwNRQB) [Accessed 20 April 2026].
+Pinterest. (2025) *Table setting inspiration for catering*. Available at: [https://pin.it/41lqwNRQB](https://pin.it/41lqwNRQB) [Accessed 18 April 2026].
