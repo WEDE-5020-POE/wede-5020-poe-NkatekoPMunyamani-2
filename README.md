@@ -12,10 +12,8 @@ NAAH Productions is a family-owned small business situated in South Africa in Ga
 
 ## Website Goals and Objectives
 
-Vision Statement
 To become a recognised local brand known for excellency in catering and handmade goods while expanding our brand into a broader market through online platforms.
 
-Mission Statement
 The aim of NAAH Productions is to provide high-quality handmade goods and satisfactory catering services, which will give clients pleasure, comfort, and satisfaction. Besides, the business promises to maintain a personalized touch in all the products and services provided to their customers.
 
 ## Timeline and Milestones
