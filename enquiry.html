@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enquiry - NAAH PRODUCTIONS</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Navigation - same on all pages -->
+    <nav>
+        <div class="logo">NAAH PRODUCTIONS</div>
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="products.html">Products</a>
+            <a href="contact.html">Contact</a>
+            <a href="enquiry.html" class="btn-outline">Shop Now</a>
+            <a href="contact.html" class="btn-dark">Contact Us</a>
+        </div>
+    </nav>
+
+    <main>
+        <h1 class="main-heading">Product Enquiry</h1>
+        <p class="page-intro">Fill in the form below to enquire about our products and catering services. We’ll get back to you within 24 hours.</p>
+
+        <section class="enquiry-form-container">
+            <form action="#" method="post">
+                <h2>Your Details</h2>
+                
+                <label for="name">Full Name: *</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email Address: *</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="phone">Phone Number: *</label>
+                <input type="tel" id="phone" name="phone" placeholder="071 453 3456" required>
+
+                <h2>Product Information</h2>
+
+                <label for="product">Which product are you enquiring about? *</label>
+                <select id="product" name="product" required>
+                    <option value="">-- Select a Product --</option>
+                    <option value="catering">Catering - Birthday Parties (R1500)</option>
+                    <option value="pillows">Couch Pillows - Range Of Pillows (R300)</option>
+                    <option value="toiletry">Toiletry Bags - Personalised (R150)</option>
+                    <option value="door-stopper">Door Stoppers - Triangular (R180)</option>
+                    <option value="multiple">Multiple Products</option>
+                </select>
+
+                <label for="quantity">Quantity:</label>
+                <input type="number" id="quantity" name="quantity" min="1" value="1">
+
+                <label for="customisation">Customisation Details:</label>
+                <textarea id="customisation" name="customisation" rows="3" placeholder="e.g. Pillow colour, toiletry bag name, number of guests for catering"></textarea>
+
+                <label for="event-date">Event Date (if applicable):</label>
+                <input type="date" id="event-date" name="event-date">
+
+                <h2>Additional Information</h2>
+
+                <label for="message">Additional Message or Questions:</label>
+                <textarea id="message" name="message" rows="5" placeholder="Tell us more about what you need..."></textarea>
+
+                <label for="hear-about">How did you hear about us?</label>
+                <select id="hear-about" name="hear-about">
+                    <option value="">-- Please Select --</option>
+                    <option value="social-media">Social Media</option>
+                    <option value="word-of-mouth">Word of Mouth</option>
+                    <option value="google">Google Search</option>
+                    <option value="other">Other</option>
+                </select>
+
+                <div class="form-buttons">
+                    <button type="submit" class="btn-dark">Submit Enquiry</button>
+                    <button type="reset" class="btn-outline">Clear Form</button>
+                </div>
+            </form>
+        </section>
+
+        <!-- Info Box -->
+        <section class="enquiry-info">
+            <h3>Note:</h3>
+            <p><strong>Catering:</strong> Prices vary due to number of guests.</p>
+            <p><strong>Pillows:</strong> All designs available — specify colour/pattern above.</p>
+            <p><strong>Toiletry Bags:</strong> Prices vary due to design and personalisation.</p>
+            <p><strong>Door Stoppers:</strong> Different styles available.</p>
+            <p>For urgent enquiries, call us directly: <strong>071 453 3456</strong></p>
+        </section>
+    </main>
+
+    <!-- Footer - same as other pages -->
+    <footer>
+        <div class="footer-left">
+            <a href="#">X</a>
+            <a href="#">Instagram</a>
+        </div>
+        <div class="footer-center">
+            <h3>NAAH PRODUCTIONS</h3>
+            <p>HANDMADE COMFORT AND CATERING SERVICES</p>
+            <p>FOR MORE INFORMATION CONTACT US ON: 071 453 3456</p>
+        </div>
+    </footer>
+</body>
+</html>
