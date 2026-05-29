@@ -16,12 +16,22 @@ This project follows Semantic Versioning.
 - Conducted market research on catering businesses in Pretoria
 - Defined business type as NAAH PRODUCTIONS catering and handmade products
 - xyz
+- External css file and named it style.css with base styles , typography , layout
+- CSS grid for categories and products section
+- Media queries
+- Images height
+
+
+
 
 ### Changed
 - xyz
+-
+
 
 ### Fixed
 - xyz
+- Renamed my images on the index.html page because images were not visible
 
 ## Semantic Versioning
 
