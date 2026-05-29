@@ -18,8 +18,8 @@ This project follows Semantic Versioning.
 - xyz
 - External css file and named it style.css with base styles , typography , layout
 - CSS grid for categories and products section
-- Media queries
-- Images height
+- Media queries for 1024px , 768px ,480px
+- Images height 180px
 - Updated my timeline
 
 
@@ -27,8 +27,7 @@ This project follows Semantic Versioning.
 
 ### Changed
 - xyz
--
-
+- Images changed to 150px
 
 ### Fixed
 - xyz
