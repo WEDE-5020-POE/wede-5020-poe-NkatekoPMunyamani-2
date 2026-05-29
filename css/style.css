@@ -1,4 +1,4 @@
-/* ========== BASE STYLE 2.2 ========== */
+/* ========== BASE STYLE ========== */
 * {
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@ body {
   line-height: 1.6;
 }
 
-/* ========== TYPOGRAPHY 2.3 ========== */
+/* ========== TYPOGRAPHY ========== */
 h1, h2, h3, h4 {
   font-family: Georgia, serif;
   font-weight: 700;
@@ -30,7 +30,7 @@ p {
   margin-bottom: 0.8em;
 }
 
-/* ========== LAYOUT 2.4 ========== */
+/* ========== LAYOUT  ========== */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -98,7 +98,7 @@ p {
   box-shadow: 0 2px 5px black;
 }
 
-/* ========== VISUAL STYLES 2.5 ========== */
+/* ========== VISUAL STYLES  ========== */
 .logo {
   font-size: 1.4rem;
   font-weight: bold;
@@ -185,7 +185,7 @@ button:hover {
   color: white;
 }
 
-/* ========== RESPONSIVE 3.1 ========== */
+/* ========== RESPONSIVE  ========== */
 @media (max-width: 1024px) {
   .categories,
   .products {
