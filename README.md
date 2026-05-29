@@ -36,22 +36,22 @@ TIMELINE
 * Day 22 Submit PART 1
 - Week 4 , 1st - 7th May HTML + CSS Setup 
 * Day 23- 24 Created style.css file & linked it to all 5 HTML pages  
-* Day 25 - 27 Wrote base styles + typography. Styled navbar + footer + logo  
-* Day 28 - 30 Styled headings h1-h4 + body text. Tested CSS on index.html + about.html  
-* Day 31 Git commit , Added CSS base + linked to all pages
+* Day 25 - 26 Wrote base styles + typography. Styled navbar + footer + logo  
+* Day 28 - 29 Styled headings h1-h4 + body text. Tested CSS on index.html + about.html  
+* Day 30 Git commit , Added CSS base + linked to all pages
 - Week 5 , 8th - 14th May  Layout and grids
-* Day 32 - 34  Built categories section with CSS Grid. 
-* Day 35 - 37 Built products section with CSS Grid. 
-* Day 38 - 40 Styled buttons + enquiry bar. Linked CSS to products.html + contact.html + enquiry.html  
-* Day 41 Git commit , Completed grid layouts + all 5 pages linked
+* Day 31 - 32  Built categories section with CSS Grid. 
+* Day 33 - 34 Built products section with CSS Grid. 
+* Day 35 - 36 Styled buttons + enquiry bar. Linked CSS to products.html + contact.html + enquiry.html  
+* Day 37 Git commit , Completed grid layouts + all 5 pages linked
 - Week 6 , 15th - 29th May Responsive + Final Testing
-* Day 42 - 44 Added media queries , Navbar stacks  
-* Day 45 - 47 Added media query Tested mobile view 
-* Day 48 - 50 Tested my website and fixed mistakes 
-* Day 51 - 53 GitHub commit & push 
-* Day 54 - 56 Updated README.md + CHANGELOG.md for Part 2  
-* Day 57 - 59 Pushed all files to GitHub. + screenshots  
-* Day 60 Submit PART 2
+* Day 38 Added media queries , Navbar stacks  
+* Day 39 Added media query Tested mobile view 
+* Day 40 Tested my website and fixed mistakes 
+* Day 41 GitHub commit & push 
+* Day 42 Updated README.md + CHANGELOG.md for Part 2  
+* Day 43  Pushed all files to GitHub. + screenshots  
+* Day 44 Submit PART 2
 
 ## Sitemap
 
