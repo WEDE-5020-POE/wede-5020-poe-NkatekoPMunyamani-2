@@ -20,6 +20,7 @@ This project follows Semantic Versioning.
 - CSS grid for categories and products section
 - Media queries
 - Images height
+- Updated my timeline
 
 
 
