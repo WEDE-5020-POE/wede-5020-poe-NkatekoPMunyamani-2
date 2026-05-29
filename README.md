@@ -41,7 +41,7 @@ TIMELINE
 * Day 30 Git commit , Added CSS base + linked to all pages
 - Week 5 , 8th - 14th May  Layout and grids
 * Day 31 - 32  Built categories section with CSS Grid. 
-* Day 33 - 34 Built products section with CSS Grid. 
+* Day 33 - 34 Built products section with CSS Grid
 * Day 35 - 36 Styled buttons + enquiry bar. Linked CSS to products.html + contact.html + enquiry.html  
 * Day 37 Git commit , Completed grid layouts + all 5 pages linked
 - Week 6 , 15th - 29th May Responsive + Final Testing
