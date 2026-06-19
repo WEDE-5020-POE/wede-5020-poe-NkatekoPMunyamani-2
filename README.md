@@ -52,6 +52,21 @@ TIMELINE
 * Day 42 Updated README.md + CHANGELOG.md for Part 2  
 * Day 43  Pushed all files to GitHub. + screenshots  
 * Day 44 Submit PART 2
+- Week 7 1st - 7th June Functionakity and SEO
+* Day 45 - 47 Forms + JavaScript
+* Day 48 - 50 SEO implementation
+* Day 51 Testing
+- Week 8 8th - 14th June Deployment + more testing
+* Day 52 - 54 Testing and deployment
+* Day 55 Push all changes to GitHub
+* Day 56 - 58 Test live site on phone + desktop
+- Week 9 15th - 19th Polish + Submission
+* Day 59 - 61 Final tweeks
+* Day 62 Update ReadMe and Changelog
+* Day 63 SUBMIT
+
+
+
 
 ## Sitemap
 
