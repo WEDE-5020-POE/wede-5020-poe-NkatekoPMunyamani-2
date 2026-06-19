@@ -21,6 +21,8 @@ This project follows Semantic Versioning.
 - Media queries for 1024px , 768px ,480px
 - Images height 180px
 - Updated my timeline
+- External js file and named it myStyle.js
+- 
 
 
 
