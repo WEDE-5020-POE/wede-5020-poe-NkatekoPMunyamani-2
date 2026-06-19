@@ -56,29 +56,54 @@
                 <label for="customisation">Customisation Details:</label>
                 <textarea id="customisation" name="customisation" rows="3" placeholder="e.g. Pillow colour, toiletry bag name, number of guests for catering"></textarea>
 
-                <label for="event-date">Event Date (if applicable):</label>
+                <label for="event-date">Event  Date (if applicable):</label>
                 <input type="date" id="event-date" name="event-date">
-
+ 
                 <h2>Additional Information</h2>
 
                 <label for="message">Additional Message or Questions:</label>
                 <textarea id="message" name="message" rows="5" placeholder="Tell us more about what you need..."></textarea>
 
-                <label for="hear-about">How did you hear about us?</label>
-                <select id="hear-about" name="hear-about">
-                    <option value="">-- Please Select --</option>
-                    <option value="social-media">Social Media</option>
-                    <option value="word-of-mouth">Word of Mouth</option>
-                    <option value="google">Google Search</option>
-                    <option value="other">Other</option>
-                </select>
-
-                <div class="form-buttons">
-                    <button type="submit" class="btn-dark">Submit Enquiry</button>
-                    <button type="reset" class="btn-outline">Clear Form</button>
-                </div>
-            </form>
-        </section>
+      <div class="form-group">
+         <label for="enquiry-type">Enquiry Type *</label>
+           <select id="enquiry-type" name="enquiry-type" required>
+             <option value="">-- Select --</option>
+             <option value="product">Product Quote</option>
+             <option value="service">Catering Service</option>
+             <option value="volunteer">Become a Volunteer</option>
+             <option value="sponsor">Become a Sponsor</option>
+           </select>
+     </div>
+<!--Product dropdown-->
+     <div id="product-group" style="display:none;">
+        <label for="product">Product *</label>
+          <select id="product" name="product">
+            <option value="">-- Select Product --</option>
+            <option value="pillows">Pillows - R300</option>
+            <option value="toiletry">Toiletry Bags - R150</option>
+            <option value="door-stopper">Door Stoppers - R180</option>
+            <option value="catering">Catering - R1500</option>
+          </select>
+     </div>
+<!--Quantity-->
+     <div id="qty-group" style="display:none;">
+        <label for="quantity">Quantity *</label>
+          <input type="number" id="quantity" name="quantity" min="1" value="1">
+     </div>
+<!--VIP checkbox-->
+     <div class="form-group">
+        <label for="vip">
+          <input type="checkbox" id="vip" name="vip"> I’m a VIP Member - Get 10% off
+        </label>
+     </div>
+<!--Result and buttons-->
+   <div id="result"></div>
+    <div class="form-buttons">
+      <button type="button" id="btn-get-quote" class="btn-dark">Get Quote / Submit</button>
+      <button type="reset" class="btn-outline">Clear Form</button>
+    </div>
+  </form>
+</section>
 
         <!-- Info Box -->
         <section class="enquiry-info">
